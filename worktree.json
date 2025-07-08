@@ -1,0 +1,112 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 1417,
+    "time": 1751969607,
+    "hash": "d551f04fe02ac2089f5aec54747d5efda2546cdc"
+  },
+  ".hoa/worktree.json": {
+    "size": 3331,
+    "time": 1751879589,
+    "hash": "8ae97291ccd5fbf773d9ca6be94b46d35bb25c67"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713689166,
+    "hash": "6b2a5be5de970c6cf592cd625e1e52c08857b45c"
+  },
+  "README.md": {
+    "size": 5679,
+    "time": 1751172356,
+    "hash": "787dc79e29eeab603cb0950cc5d80abb2b2f6134"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1739640409,
+    "hash": "b374c04ccc04e6a892fb8bcabe566302ae3f87ec"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1739640409,
+    "hash": "b374c04ccc04e6a892fb8bcabe566302ae3f87ec"
+  },
+  "exams/2021哈工大（深圳）新生入学英语试题.docx": {
+    "size": 130134,
+    "time": 1713689221,
+    "hash": "9e1e2b641e8e63325b4001f7147a024fc786c335"
+  },
+  "exams/2021哈工大（深圳）新生入学英语试题.pdf": {
+    "size": 927190,
+    "time": 1713689221,
+    "hash": "9e1e2b641e8e63325b4001f7147a024fc786c335"
+  },
+  "exams/2021哈工大（深圳）英语听说-听力试题.docx": {
+    "size": 31822,
+    "time": 1713689221,
+    "hash": "9e1e2b641e8e63325b4001f7147a024fc786c335"
+  },
+  "exams/2021哈工大（深圳）英语听说-听力试题.pdf": {
+    "size": 211271,
+    "time": 1713689221,
+    "hash": "9e1e2b641e8e63325b4001f7147a024fc786c335"
+  },
+  "exams/2021哈工大（深圳）英语读写（阅读）.docx": {
+    "size": 37210,
+    "time": 1713689221,
+    "hash": "9e1e2b641e8e63325b4001f7147a024fc786c335"
+  },
+  "exams/2021哈工大（深圳）英语读写（阅读）.pdf": {
+    "size": 202787,
+    "time": 1713689221,
+    "hash": "9e1e2b641e8e63325b4001f7147a024fc786c335"
+  },
+  "exams/2024 级大学英语 A 期末综合考试参考答案（简版）.pdf": {
+    "size": 93193,
+    "time": 1736337163,
+    "hash": "e83ae84aee32931690980e256ab995787e569b17"
+  },
+  "exams/2024 级大学英语 A 期末综合考试参考答案（详版）.pdf": {
+    "size": 2591398,
+    "time": 1736337163,
+    "hash": "e83ae84aee32931690980e256ab995787e569b17"
+  },
+  "exams/2024级大学英语A期末综合考试试题（回忆版）.pdf": {
+    "size": 244192,
+    "time": 1736337163,
+    "hash": "e83ae84aee32931690980e256ab995787e569b17"
+  },
+  "exams/hitsz新生入学英语听力.rar": {
+    "size": 15368708,
+    "time": 1713689221,
+    "hash": "9e1e2b641e8e63325b4001f7147a024fc786c335"
+  },
+  "exams/hitsz新生入学英语复习资料.rar": {
+    "size": 1365226,
+    "time": 1713689221,
+    "hash": "9e1e2b641e8e63325b4001f7147a024fc786c335"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1739640409,
+    "hash": "b374c04ccc04e6a892fb8bcabe566302ae3f87ec"
+  },
+  "policies/.gitkeep": {
+    "size": 0,
+    "time": 1739640409,
+    "hash": "b374c04ccc04e6a892fb8bcabe566302ae3f87ec"
+  },
+  "policies/深圳校区2023级本科生大学英语课程免修免听方案.docx": {
+    "size": 236367,
+    "time": 1739640409,
+    "hash": "b374c04ccc04e6a892fb8bcabe566302ae3f87ec"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1739640409,
+    "hash": "b374c04ccc04e6a892fb8bcabe566302ae3f87ec"
+  },
+  "tag.txt": {
+    "size": 103,
+    "time": 1734931513,
+    "hash": "b749c6833137b7219d5fd3a2ef076e527d2ffae1"
+  }
+}
