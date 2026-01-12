@@ -1,0 +1,119 @@
+# 警告：此 README 涵盖了三门独立的课程（LANG1006, LANG1007, LANG1008），但在一个文件中进行了描述。课程代码 LANG100X 是一个统称。
+# 警告：成绩构成是按“大一”、“大二”划分，而非具体年份。已将其合并到 "0000" 键下。
+course_name: "大学英语"
+course_code: "LANG100X"
+notices: |
+  - 大学英语A的分班由开学考试成绩决定，大学英语B的分班由大学英语A的期末考试成绩决定，大学英语C的分班由大学英语B的期末考试成绩决定。
+  - 每学期分班后卷面成绩位于前20%左右的学生可以申请免听之后所有学期的英语。
+  - 免听的学生的课程成绩完全由期末考试卷面成绩决定，即期末考试占比100%，无平时成绩，无需参与平时课堂和完成平时作业。
+  - 在免听学期的期末考试成绩跌出免听线则失去之后学期的免听资格。
+grading:
+  "0000": "大一: 作业(40%) + 期末考试(60%); 大二: 作业(50%) + 期末考试(50%)"
+teachers:
+  - name: "景怡"
+    reviews:
+      - content: |
+          上课会分享自己的留学与学术经历，如果认真听，可以学到不少干货
+          有签到，均在雨课堂进行；有签到二维码、课上小测两种形式
+          上课按照座位表坐，老师也会随机点人回答问题
+          ~~漂亮~~
+        submitter:
+          name: "IcyDesert"
+          link: "https://github.com/IcyDesert"
+  - name: "韩烨"
+    reviews:
+      - content: |
+          上课按座位表坐，且有较多互动
+          课后作业很多，每周完成口语 + 听力 + 阅读 + 可能的写作，需要花费不少时间，而且平时分中的作业部分严格按平台成绩打分
+          但是老师的英语水平确实很高，和她交流能学到一些英语知识
+        submitter:
+          name: ""
+          link: ""
+  - name: "毕鑫(Lotus)"
+    reviews:
+      - content: |
+          上课座位任意，不点名，回答问题一般以传话筒形式，即使点名点到没来的也不会扣分
+          有一次pre（大一下），分享你们组感兴趣的一篇学术文章
+          老师上课节奏很慢，而且~~口音好听~~
+        submitter:
+          name: "Gaster"
+          link: "https://github.com/WDGaster703"
+  - name: "毛成婷"
+    reviews:
+      - content: |
+          上课按座位表坐，需要用雨课堂二维码进行签到，一般按座位顺序以传话筒方式回答问题，也有随机抽人但次数比较少，题目不会也没关系，会跳到下一个人，每人一节课只需要回答一个问题（大概吧，起码笔者所在那学期是这样的）
+          课后作业还好，每周完成口语或听力或阅读或可能的写作四种任务中的一个，不刷分的话半小时左右就可以完成，平时分中的作业部分严格按平台成绩打分
+          不强制要求买书，课堂提供的课件足以进行学习，但要求自带纸质本子用来完成听力任务
+          有小组作业，内容为自选方向进行一次英语演讲，要求四人一小组制作 ppt，并轮流或指派人进行课堂演讲，有两节课进行专门评分
+        submitter:
+          name: ""
+          link: ""
+  - name: "肖雯琪"
+    reviews:
+      - content: |
+          上课随便坐，有点名但是内容都较为简单，签到次数非常少，没来不扣分但是来了会有额外加分（不少）
+          课后作业非常少，且会开通补交通道
+          老师人非常好，会带着大家织香囊~~端午节特色~~
+        submitter:
+          name: "Cecilia"
+          link: "https://github.com/mircecilia"
+textbooks:
+  - title: "视听说教材"
+    author: ""
+    publisher: ""
+    edition: ""
+    type: "textbook"
+    submitter:
+      name: ""
+      link: ""
+  - title: "学术英语（理工）"
+    author: ""
+    publisher: ""
+    edition: ""
+    type: "textbook"
+    submitter:
+      name: ""
+      link: ""
+online_resources:
+  - title: "大学英语C（B班）MOOC课程"
+    url: ""
+    description: "大二秋季学期大学英语C的B班需要完成的MOOC课程。"
+    submitter:
+      name: ""
+      link: ""
+about_course:
+  - content: |
+      自 23 级起，大学英语改为三学期：
+        - 大一秋季学期的大学英语A（LANG1006）为听说课，教材是视听说教材，训练英语听说能力
+        - 大一春季学期的大学英语B（LANG1007）为论文教学课，教材是《学术英语（理工）》，训练英文论文阅读能力
+          - 大学英语A和大学英语B的 A/B/C 班并无太大差别，老师亦是轮换教学
+          - 作业量与分级无关，而是取决于老师
+        - 大二秋季学期的大学英语C（LANG1008）为英语提高训练，涉及听说读写四个方面内容。
+          - 大学英语C的A班不需要上课，但 23 级的 A 班需要完成**大量**作业
+          - B班需要完成MOOC课程
+          - C班需要参与线下课
+    submitter:
+      name: "Gaster"
+      link: "https://github.com/WDGaster703"
+about_exam:
+  - content: |
+      自23级起，每学期的期末考试与大一秋季学期英语分班考试结构一致，试卷结构为：25 题四级听力 + 10 题雅思听力（1 篇文章）+ 2 篇四级阅读 + 1 篇雅思阅读 + 1 篇短文填词 + 1 篇雅思大作文（议论文）。
+    submitter:
+      name: "Gaster"
+      link: "https://github.com/WDGaster703"
+study_advice: []
+schedule: []
+related_links:
+  - content: "四、六级备考指北: https://hoa.moe/blog/cet-intro/"
+    submitter:
+      name: ""
+      link: ""
+  - content: "2014-2021年大学英语四、六级真题及解析已更新至内网网盘。"
+    submitter:
+      name: ""
+      link: ""
+misc:
+  - content: "关于分班和免听的细则还可参考文件 `深圳校区2023级本科生大学英语课程免修免听方案.docx`"
+    submitter:
+      name: "Gaster"
+      link: "https://github.com/WDGaster703"
