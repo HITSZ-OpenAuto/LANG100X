@@ -71,6 +71,16 @@ content = """
 """
 author = { name = "Cecilia", link = "https://github.com/mircecilia", date = "2025-06" }
 
+[[lecturers]]
+name = "关贝贝"
+
+[[lecturers.reviews]]
+content = """
+上课有固定座位，无点名，会顺序点人回答问题
+课后作业非常少，偶有课上作业
+老师人很好，基本0差评，最后一节课请大家喝了奶茶
+"""
+author = { name = "l3", link = "https://github.com/ll3me", date = "2026-03" }
 
 [[sections]]
 title = "在线资源"
