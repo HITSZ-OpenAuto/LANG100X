@@ -1,5 +1,10 @@
 # LANG100X - 大学英语
 <!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
+
+![成绩构成](https://img.shields.io/badge/成绩构成-gold)
+![作业40%](https://img.shields.io/badge/作业-40%25-wheat)
+![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
 
 自 23 级起，大学英语改为三学期：
 - 大一秋季学期的大学英语A（LANG1006）为听说课，教材是视听说教材，训练英语听说能力
